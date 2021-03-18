@@ -1,12 +1,23 @@
-﻿using System;
+﻿using Newtonsoft.Json.Linq;
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace ConsumeSpaceXApi
 {
     class Program
     {
-        static void Main(string[] args)
+        private static readonly HttpClient HttpClient;
+
+        static Program()
         {
-            Console.WriteLine("Hello World!");
+            HttpClient = new HttpClient();
         }
+
+        static async Task Main(string[] args)
+        {
+            Console.WriteLine("Hello World");
+        }
+
     }
 }

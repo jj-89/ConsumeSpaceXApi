@@ -1,0 +1,15 @@
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\bin\Debug\netcoreapp3.1\ConsumeSpaceXApi.exe
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\obj\Debug\netcoreapp3.1\ConsumeSpaceXApi.csprojAssemblyReference.cache
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\obj\Debug\netcoreapp3.1\ConsumeSpaceXApi.AssemblyInfoInputs.cache
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\obj\Debug\netcoreapp3.1\ConsumeSpaceXApi.AssemblyInfo.cs
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\bin\Debug\netcoreapp3.1\ConsumeSpaceXApi.deps.json
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\bin\Debug\netcoreapp3.1\ConsumeSpaceXApi.runtimeconfig.json
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\bin\Debug\netcoreapp3.1\ConsumeSpaceXApi.runtimeconfig.dev.json
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\bin\Debug\netcoreapp3.1\ConsumeSpaceXApi.dll
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\bin\Debug\netcoreapp3.1\ConsumeSpaceXApi.pdb
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\obj\Debug\netcoreapp3.1\ConsumeSpaceXApi.csproj.CoreCompileInputs.cache
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\obj\Debug\netcoreapp3.1\ConsumeSpaceXApi.csproj.CopyComplete
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\obj\Debug\netcoreapp3.1\ConsumeSpaceXApi.dll
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\obj\Debug\netcoreapp3.1\ConsumeSpaceXApi.pdb
+C:\projects\SpaceX\GetJsonConsole\ConsumeSpaceXApi\obj\Debug\netcoreapp3.1\ConsumeSpaceXApi.genruntimeconfig.cache
