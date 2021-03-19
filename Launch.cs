@@ -4,11 +4,24 @@ using System.Text;
 
 namespace ConsumeSpaceXApi
 {
-    class Launch
+    public class Launch
     {
+
+        public Launch()
+        {
+
+        }
+        public Launch(int flightNumber, string missionName, string upcomming, DateTime launchDateUtc)
+        {
+            FlightNumber = flightNumber;
+            MissionName = missionName;
+            Upcomming = upcomming;
+            LaunchDateUtc = launchDateUtc;
+        }
+
         public int FlightNumber { get; set; }
         public string MissionName { get; set; }
-        public bool Upcomming { get; set; }
+        public string Upcomming { get; set; }
         public DateTime LaunchDateUtc { get; set; }
     }
 }
